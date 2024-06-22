@@ -5,7 +5,7 @@
 
 <div class="flex flex-row overflow-hidden h-screen">
     <Sidebar />
-    <div class="overflow-auto">
-    <slot />
+    <div class="overflow-auto w-full">
+        <slot />
     </div>
 </div>
