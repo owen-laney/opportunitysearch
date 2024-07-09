@@ -3,7 +3,7 @@
     import Searchbar from "$lib/components/searchbar.svelte";
 </script>
 <div class="flex justify-center">
-    <div class=" pt-8">
+    <div class=" pt-8 p-8">
         <Searchbar />
         <Card />
         <Card />
