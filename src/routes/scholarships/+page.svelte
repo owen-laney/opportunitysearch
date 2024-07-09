@@ -1,8 +1,10 @@
 <script lang="ts">
     import Card from "$lib/components/card.svelte";
+    import Searchbar from "$lib/components/searchbar.svelte";
 </script>
 <div class="flex justify-center">
-    <div class="max-w-96">
+    <div class=" pt-8">
+        <Searchbar />
         <Card />
         <Card />
         <Card />
