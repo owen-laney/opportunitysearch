@@ -17,11 +17,11 @@ export default {
         'fg-secondary': '#666',
       },
       fontFamily: {
-        'suit': ['SUIT Variable'],
+        'suit': ['Host Grotesk'],
       },
     },
     fontFamily: {
-      'sans': ['SUIT Variable'],
+      'sans': ['Host Grotesk', 'sans-serif'],
     },
   },
   plugins: [],
